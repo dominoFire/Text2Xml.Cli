@@ -3,6 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <Description>Simple CLI for Text2Xml.Lib</Description>
+    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/dominoFire/Text2Xml.Lib</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
